@@ -32,16 +32,16 @@ angular.module( 'YourApp', [ 'mdPickers' ] )
 第一次安装或更新你的本地项目的__npm__工具:
 
 ```bash
-# First install all the npm tools:
+# 首先安装所有的工具npm :
 npm install
 
-# or update
+# 或更新
 npm update
 ```
 
 然后运行默认的 gulp 任务 :
 
 ```bash
-# builds all files in the `dist` directory
+# 建立所有文件 `dist` 目录
 gulp
 ```
